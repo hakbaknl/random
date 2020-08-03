@@ -1,4 +1,4 @@
 #
 
 
-echo -n 'BASE64' | iconv -f UTF8 -t UTF16LE | base64
+echo -n 'test' | iconv -f UTF8 -t UTF16LE | base64
