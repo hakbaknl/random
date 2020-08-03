@@ -1,0 +1,4 @@
+#
+
+
+echo -n 'BASE64' | iconv -f UTF8 -t UTF16LE | base64
